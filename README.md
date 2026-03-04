@@ -10,17 +10,13 @@
 <img src="https://img.shields.io/badge/Google_Dev_Expert_(in_progress)-4285F4?style=flat-square&logo=google&logoColor=white"/>
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Building+Genus+ORM+%E2%80%94+the+future+of+Go+persistence;10%2B+years+in+fintech+%26+payment+systems;PIX+%7C+SPI+%7C+DICT+%7C+SPB+%7C+ISO+20022;Pursuing+Google+Developer+Expert" alt="Typing SVG" />
+
 </div>
 
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADD8&height=1"/>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GabrielOnRails&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
-</div>
 
 ---
 
@@ -66,9 +62,6 @@ users, err := genus.Query[User](db).
 `🦫` Idiomatic Go — no magic  
 
 [![Stars](https://img.shields.io/github/stars/GabrielOnRails/genus?style=flat-square&color=00ADD8&label=⭐)](https://github.com/GabrielOnRails/genus)
-[![Last Commit](https://img.shields.io/github/last-commit/GabrielOnRails/genus?style=flat-square&color=00ADD8&label=last+commit)](https://github.com/GabrielOnRails/genus/commits)
-[![Issues](https://img.shields.io/github/issues/GabrielOnRails/genus?style=flat-square&color=8b949e)](https://github.com/GabrielOnRails/genus/issues)
-[![License](https://img.shields.io/github/license/GabrielOnRails/genus?style=flat-square&color=8b949e)](https://github.com/GabrielOnRails/genus/blob/main/LICENSE)
 [![Lang](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
 
 </td>
