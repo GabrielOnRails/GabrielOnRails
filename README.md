@@ -1,3 +1,7 @@
+
+Readme · MD
+Copiar
+
 <div align="center">
 
 <h1>Gabriel Dias</h1>
@@ -17,6 +21,12 @@
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADD8&height=1"/>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GabrielOnRails&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
+</div>
 
 ---
 
@@ -62,6 +72,9 @@ users, err := genus.Query[User](db).
 `🦫` Idiomatic Go — no magic  
 
 [![Stars](https://img.shields.io/github/stars/GabrielOnRails/genus?style=flat-square&color=00ADD8&label=⭐)](https://github.com/GabrielOnRails/genus)
+[![Last Commit](https://img.shields.io/github/last-commit/GabrielOnRails/genus?style=flat-square&color=00ADD8&label=last+commit)](https://github.com/GabrielOnRails/genus/commits)
+[![Issues](https://img.shields.io/github/issues/GabrielOnRails/genus?style=flat-square&color=8b949e)](https://github.com/GabrielOnRails/genus/issues)
+[![License](https://img.shields.io/github/license/GabrielOnRails/genus?style=flat-square&color=8b949e)](https://github.com/GabrielOnRails/genus/blob/main/LICENSE)
 [![Lang](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
 
 </td>
@@ -107,20 +120,6 @@ now  →  Building Genus ORM · Pursuing Google Developer Expert · XP Educaçã
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielOnRails&theme=github_dark" width="98%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielOnRails&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielOnRails&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielOnRails&theme=github_dark" width="32%" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=GabrielOnRails&theme=github-dark-blue&hide_border=true&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=8b949e&dates=8b949e&background=0d1117)](https://github.com/GabrielOnRails)
 
 </div>
@@ -149,3 +148,7 @@ export HOBBY="Brazilian Jiu-Jitsu 🥋"
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADD8&height=1"/>
+
+<div align="center">
+  <sub><code>Open to collaboration on Go open source · fintech systems · distributed architecture</code></sub>
+</div>
