@@ -1,31 +1,27 @@
-<!-- Header SVG animado dark -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0a0a0a&height=3&section=header"/>
+
+<h1>Gabriel Dias</h1>
+
+<p><strong>Principal Software Engineer</strong> &nbsp;·&nbsp; Go &nbsp;·&nbsp; Fintech &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Open Source</p>
+
+<p>
+<a href="https://www.linkedin.com/in/gabriel-tech/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="https://gabrielonrails.github.io/"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Uberlândia,_BR-333?style=flat-square&logo=googlemaps&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Google_Dev_Expert_(in_progress)-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Building+Genus+ORM+%E2%80%94+the+future+of+Go+persistence;10%2B+years+in+fintech+%26+payment+systems;PIX+%7C+SPI+%7C+DICT+%7C+SPB+%7C+ISO+20022;Pursuing+Google+Developer+Expert" alt="Typing SVG" />
+
 </div>
 
 <br/>
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║   GABRIEL DIAS  //  Principal Software Engineer           ║
-║   Go · Fintech · Distributed Systems · Open Source           ║
-║   Uberlândia, BR  ·  10+ yrs  ·  → Google Dev Expert         ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-gabriel--tech-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-tech/)&nbsp;
-[![Website](https://img.shields.io/badge/-gabrielonrails.github.io-111?style=flat-square&logo=github&logoColor=white)](https://gabrielonrails.github.io/)&nbsp;
-[![Go](https://img.shields.io/badge/-Go%20Developer-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADD8&height=1"/>
 
 ---
 
-## `$ whoami`
+## About
 
 > Principal Engineer specializing in **high-throughput payment systems** and **distributed financial infrastructure**.  
 > Arquiteto de soluções críticas no ecossistema financeiro brasileiro — PIX, SPI, DICT, SPB — processando dezenas de milhões de transações mensais.
@@ -33,7 +29,7 @@
 
 ---
 
-## `$ ls -la ./projects/genus`
+## Featured Project
 
 <table>
 <tr>
@@ -75,7 +71,7 @@ users, err := genus.Query[User](db).
 
 ---
 
-## `$ cat ./stack.json`
+## Tech Stack
 
 ```json
 {
@@ -92,7 +88,7 @@ users, err := genus.Query[User](db).
 
 ---
 
-## `$ git log --oneline ./career`
+## Career
 
 ```
 10 yrs  Principal Software Engineer — payment systems & distributed infrastructure
@@ -108,7 +104,7 @@ now  →  Building Genus ORM · Pursuing Google Developer Expert · XP Educaçã
 
 ---
 
-## `$ gh stats --user GabrielOnRails`
+## GitHub Activity
 
 <div align="center">
 
@@ -129,7 +125,7 @@ now  →  Building Genus ORM · Pursuing Google Developer Expert · XP Educaçã
 
 ---
 
-## `$ echo $CURRENT_FOCUS`
+## Currently
 
 ```bash
 export BUILDING="Genus — next-gen Go ORM (genus-orm)"
@@ -146,6 +142,8 @@ export HOBBY="Brazilian Jiu-Jitsu 🥋"
   </sub>
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADD8&height=1"/>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADD8&height=2&section=footer"/>
+  <sub><code>Open to collaboration on Go open source · fintech systems · distributed architecture</code></sub>
 </div>
