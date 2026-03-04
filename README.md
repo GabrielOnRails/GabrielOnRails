@@ -10,8 +10,6 @@
 <img src="https://img.shields.io/badge/Google_Dev_Expert_(in_progress)-4285F4?style=flat-square&logo=google&logoColor=white"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=00ADD8&center=true&vCenter=true&width=600&lines=Building+Genus+ORM+%E2%80%94+the+future+of+Go+persistence;10%2B+years+in+fintech+%26+payment+systems;PIX+%7C+SPI+%7C+DICT+%7C+SPB+%7C+ISO+20022;Pursuing+Google+Developer+Expert" alt="Typing SVG" />
-
 </div>
 
 <br/>
