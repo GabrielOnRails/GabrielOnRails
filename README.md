@@ -6,7 +6,6 @@
 
 <p>
 <a href="https://www.linkedin.com/in/gabriel-tech/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://gabrielonrails.github.io/"><img src="https://img.shields.io/badge/Website-111111?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Uberlândia,_BR-333?style=flat-square&logo=googlemaps&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Google_Dev_Expert_(in_progress)-4285F4?style=flat-square&logo=google&logoColor=white"/>
 </p>
@@ -108,8 +107,8 @@ now  →  Building Genus ORM · Pursuing Google Developer Expert · XP Educaçã
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielOnRails&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00ADD8&icon_color=00ADD8&text_color=8b949e&bg_color=0d1117&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOnRails&layout=compact&theme=github_dark&hide_border=true&title_color=00ADD8&text_color=8b949e&bg_color=0d1117&langs_count=6" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielOnRails&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00ADD8&icon_color=00ADD8&text_color=8b949e&bg_color=0d1117&include_all_commits=true&cache_seconds=1800&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOnRails&layout=compact&theme=github_dark&hide_border=true&title_color=00ADD8&text_color=8b949e&bg_color=0d1117&langs_count=6&cache_seconds=1800" />
 
 </div>
 
