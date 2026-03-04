@@ -1,7 +1,3 @@
-
-Readme · MD
-Copiar
-
 <div align="center">
 
 <h1>Gabriel Dias</h1>
@@ -140,12 +136,6 @@ export HOBBY="Brazilian Jiu-Jitsu 🥋"
 ```
 
 ---
-
-<div align="center">
-  <sub>
-    <code>// Open to collaboration on Go open source · fintech systems · distributed architecture</code>
-  </sub>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADD8&height=1"/>
 
