@@ -107,8 +107,15 @@ now  →  Building Genus ORM · Pursuing Google Developer Expert · XP Educaçã
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielOnRails&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00ADD8&icon_color=00ADD8&text_color=8b949e&bg_color=0d1117&include_all_commits=true&cache_seconds=1800&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOnRails&layout=compact&theme=github_dark&hide_border=true&title_color=00ADD8&text_color=8b949e&bg_color=0d1117&langs_count=6&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielOnRails&theme=github_dark" width="98%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GabrielOnRails&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielOnRails&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielOnRails&theme=github_dark" width="32%" />
 
 </div>
 
@@ -142,7 +149,3 @@ export HOBBY="Brazilian Jiu-Jitsu 🥋"
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADD8&height=1"/>
-
-<div align="center">
-  <sub><code>Open to collaboration on Go open source · fintech systems · distributed architecture</code></sub>
-</div>
