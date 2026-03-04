@@ -1,7 +1,3 @@
-
-Readme · MD
-Copiar
-
 <!-- Header SVG animado dark -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0a0a0a&height=3&section=header"/>
@@ -109,6 +105,27 @@ users, err := genus.Query[User](db).
         
 now  →  Building Genus ORM · Pursuing Google Developer Expert · XP Educação AI MSc
 ```
+
+---
+
+## `$ gh stats --user GabrielOnRails`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielOnRails&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=00ADD8&icon_color=00ADD8&text_color=8b949e&bg_color=0d1117&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOnRails&layout=compact&theme=github_dark&hide_border=true&title_color=00ADD8&text_color=8b949e&bg_color=0d1117&langs_count=6" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielOnRails&theme=github-dark-blue&hide_border=true&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideLabels=8b949e&dates=8b949e&background=0d1117)](https://github.com/GabrielOnRails)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielOnRails&theme=github-compact&bg_color=0d1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&hide_border=true" width="98%" />
+</div>
 
 ---
 
