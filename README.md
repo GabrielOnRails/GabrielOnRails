@@ -1,115 +1,134 @@
+
+Readme · MD
+Copiar
+
+<!-- Header SVG animado dark -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=200&section=header&text=Gabriel%20Dias&fontSize=50&fontColor=fff&fontAlignY=38&desc=Principal%20Software%20Engineer%20%7C%20Go%20%7C%20Fintech&descAlignY=58&descAlign=50" width="100%" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:0a0a0a&height=3&section=header"/>
 </div>
 
-<div align="center">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-tech/)
-[![Location](https://img.shields.io/badge/Uberlândia,_MG-Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-
-</div>
-
----
-
-## 👋 Sobre mim
-
-Principal Software Engineer com **10+ anos de experiência** em sistemas críticos de pagamentos e infraestrutura financeira. Especialista em **Go**, arquitetura distribuída e integração com o ecossistema financeiro brasileiro (PIX, SPI, DICT, SPB).
-
-Atualmente construindo o **[Genus](https://github.com/GabrielOnRails/genus)** — um ORM moderno para Go projetado para substituir o GORM e o ENT com foco em type-safety, performance e sistemas mission-critical.
-
-> 🎯 Objetivo: **Google Developer Expert** em Go & Cloud
-
----
-
-## 🚀 Projeto em Destaque
-
-<div align="center">
-
-[![Genus ORM](https://github-readme-stats.vercel.app/api/pin/?username=GabrielOnRails&repo=genus&theme=tokyonight&hide_border=true&title_color=00ADD8&icon_color=00ADD8)](https://github.com/GabrielOnRails/genus)
-
-</div>
-
-> **Genus** — *The Future of ORM with Golang*
-> ORM de nova geração: type-safe, alta performance e pronto para ambientes enterprise e fintech. Substituto moderno para GORM e ENT.
-
----
-
-## 🛠️ Stack & Tecnologias
-
-**Languages**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Backend & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-**Cloud**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**Fintech & Pagamentos**
-
-![PIX](https://img.shields.io/badge/PIX-32BCAD?style=for-the-badge&logo=pix&logoColor=white)
-![ISO 20022](https://img.shields.io/badge/ISO_20022-0066CC?style=for-the-badge&logoColor=white)
-![PCI DSS](https://img.shields.io/badge/PCI_DSS-003087?style=for-the-badge&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=GabrielOnRails&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielOnRails&layout=compact&theme=tokyonight&hide_border=true&title_color=00ADD8&text_color=c9d1d9&bg_color=0d1117&langs_count=6" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GabrielOnRails&theme=tokyonight&hide_border=true&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 💼 Domínios de Expertise
 ```
-🏦 Fintech & Pagamentos    ████████████████████  10+ anos
-   PIX · SPI · DICT · SPB · ISO 20022 · PCI DSS
+╔═══════════════════════════════════════════════════════════════╗
+║   GABRIEL DIAS  //  Principal Software Engineer           ║
+║   Go · Fintech · Distributed Systems · Open Source           ║
+║   Uberlândia, BR  ·  10+ yrs  ·  → Google Dev Expert         ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
-⚙️  Arquitetura Distribuída ███████████████████░  Alta expertise
-   Microservices · Event-driven · Multi-region
+<br/>
 
-🦫  Go Development          ████████████████████  Principal foco
-   APIs · ORMs · CLIs · High-performance systems
+<div align="center">
 
-☁️  Cloud & DevOps          █████████████████░░░  Sólida experiência
-   AWS · GCP · Kubernetes · Terraform
+[![LinkedIn](https://img.shields.io/badge/-gabriel--tech-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-tech/)&nbsp;
+[![Website](https://img.shields.io/badge/-gabrielonrails.github.io-111?style=flat-square&logo=github&logoColor=white)](https://gabrielonrails.github.io/)&nbsp;
+[![Go](https://img.shields.io/badge/-Go%20Developer-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
+
+</div>
+
+---
+
+## `$ whoami`
+
+> Principal Engineer specializing in **high-throughput payment systems** and **distributed financial infrastructure**.  
+> Arquiteto de soluções críticas no ecossistema financeiro brasileiro — PIX, SPI, DICT, SPB — processando dezenas de milhões de transações mensais.
+
+
+---
+
+## `$ ls -la ./projects/genus`
+
+<table>
+<tr>
+<td width="60%">
+
+### 🦫 [Genus ORM](https://github.com/GabrielOnRails/genus)
+**The ORM Go deserves.**
+
+A modern, type-safe ORM for Go — built to replace GORM and ENT in mission-critical and fintech environments.
+
+```go
+// Type-safe. Zero reflection magic.
+// Designed for production at scale.
+
+users, err := genus.Query[User](db).
+    Where(genus.Eq("status", "active")).
+    OrderBy("created_at", DESC).
+    Limit(100).
+    Exec(ctx)
+```
+
+</td>
+<td width="40%" align="center">
+
+**Why Genus?**
+
+`⚡` Zero-overhead abstractions  
+`🔒` Full compile-time type safety  
+`🏦` Built for fintech workloads  
+`🔌` No code generation required  
+`🦫` Idiomatic Go — no magic  
+
+[![Stars](https://img.shields.io/github/stars/GabrielOnRails/genus?style=flat-square&color=00ADD8&label=⭐)](https://github.com/GabrielOnRails/genus)
+[![Lang](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat-square&logo=go&logoColor=white)](#)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat ./stack.json`
+
+```json
+{
+  "primary_language": "Go",
+  "backend":   ["Go/Fiber", "Node.js", "gRPC", "REST", "GraphQL"],
+  "messaging": ["Apache Kafka", "RabbitMQ", "SQS"],
+  "storage":   ["PostgreSQL", "MySQL", "Redis", "DynamoDB", "MongoDB"],
+  "cloud":     ["AWS (ECS, Lambda, RDS, SQS, S3)", "GCP"],
+  "devops":    ["Docker", "Kubernetes", "Terraform", "GitHub Actions"],
+  "fintech":   ["PIX", "SPI", "DICT", "SPB", "ISO 20022", "ISO 8583", "PCI DSS"],
+  "ai":        ["GenAI integration", "LLM orchestration", "AI-powered agents"]
+}
 ```
 
 ---
 
-## 🌱 Atualmente
+## `$ git log --oneline ./career`
 
-- 🔨 Construindo o **[Genus ORM](https://github.com/GabrielOnRails/genus)** — novo padrão para Go
-- 🎓 Pós-graduação em **AI Solutions** na XP Educação
-- 🏆 Trilha para **Google Developer Expert** (Go & Cloud)
-- 🥋 BJJ nas horas vagas
+```
+10 yrs  Principal Software Engineer — payment systems & distributed infrastructure
+        Lead Engineer — PIX/SPI/DICT/SPB integrations (10M+ tx/month)
+        Head of Product & Technology — national-scale platforms (200M+ users)
+        Backend Engineer — e-commerce & QSR digital platforms
+        Backend Engineer — core banking integrations
+        CTO & Co-Founder — fintech startup
+        Engineer — enterprise software (pharma, agro, fleet)
+        
+now  →  Building Genus ORM · Pursuing Google Developer Expert · XP Educação AI MSc
+```
+
+---
+
+## `$ echo $CURRENT_FOCUS`
+
+```bash
+export BUILDING="Genus — next-gen Go ORM (genus-orm)"
+export LEARNING="AI Solutions @ XP Educação (post-grad)"
+export GOAL="Google Developer Expert — Go & Cloud"
+export HOBBY="Brazilian Jiu-Jitsu 🥋"
+```
 
 ---
 
 <div align="center">
+  <sub>
+    <code>// Open to collaboration on Go open source · fintech systems · distributed architecture</code>
+  </sub>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ADD8&height=100&section=footer" width="100%"/>
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=00ADD8&height=2&section=footer"/>
 </div>
